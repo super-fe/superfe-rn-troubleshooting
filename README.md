@@ -1,8 +1,8 @@
 # superfe-rn-troubleshooting
 
-There are lots of traps are missing from docs of react-native.
+There are lots of traps are missing from [doc of react-native](http://facebook.github.io/react-native/).
 
-Check [issues](https://github.com/super-fe/superfe-rn-troubleshooting/issues).
+Check out [issues](https://github.com/super-fe/superfe-rn-troubleshooting/issues).
 
 
 ## license
